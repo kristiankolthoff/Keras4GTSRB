@@ -90,6 +90,8 @@ stage. Figure 7 illustrates the MSCNN architecture.
 
 # Evaluation
 
+![alt tag](https://raw.githubusercontent.com/kristiankolthoff/Keras4GTSRB/master/evaluation.PNG)
+
 There is an official split between training (39,207 images) and test set (12,630 images)
 which is used to train and evaluate the models. Table 1 shows an evaluation summary of
 all four architectures (overall accuracy and F1-scores per traffic sign group) and addition-
